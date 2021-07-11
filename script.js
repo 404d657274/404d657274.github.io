@@ -30,9 +30,9 @@ new Vue({
           favorited: false
         },
         {
-          name: "Save your tears remix",
-          artist: "The Weeknd & Ariana Grande",
-          cover: "https://images.genius.com/56f2a02a8d9682b4381048368902b3c0.1000x1000x1.jpg",
+          name: "safety net",
+          artist: "Ariana Grande",
+          cover: "https://cdns-images.dzcdn.net/images/cover/82043641a4e2852b1794110b74a302e8/350x350.jpg",
           source: "ari.mp3",
           url: "ari.mp3",
           favorited: false
