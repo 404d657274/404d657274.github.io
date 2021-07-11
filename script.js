@@ -30,6 +30,14 @@ new Vue({
           favorited: false
         },
         {
+          name: "Save your tears remix",
+          artist: "The Weeknd & Ariana Grande",
+          cover: "https://images.genius.com/56f2a02a8d9682b4381048368902b3c0.1000x1000x1.jpg",
+          source: "ari.mp3",
+          url: "ari.mp3",
+          favorited: false
+        },
+        {
           name: "I feel it coming",
           artist: "The Weeknd",
           cover: "https://i1.sndcdn.com/artworks-000224458295-of4yea-t500x500.jpg",
